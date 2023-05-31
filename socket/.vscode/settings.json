@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "socket.h": "c",
+        "types.h": "c",
+        "unistd.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "inet.h": "c",
+        "system_error": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
